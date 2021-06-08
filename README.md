@@ -6,7 +6,7 @@ My name is **Housseynou Coulibaly** and i am a ✨ _Junior web developer_  ✨ a
 
 - 🌱 I’m currently on training at Becode
 - 👯looking for an internship 
-- 📫 You can find me in ![https://www.linkedin.com/in/housseynou-c-6642b2142/](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png) 
+- 📫 You can find me in ![https://github.com/housseynou/Vcard/blob/main/image/linkdin.png](https://www.linkedin.com/in/housseynou-c-6642b2142/) 
 
 
 
