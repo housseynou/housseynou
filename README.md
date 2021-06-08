@@ -10,7 +10,7 @@ My name is **Housseynou Coulibaly** and i am a ✨ _Junior web developer_  ✨ a
 
 
 
-[![Housseynou's stats card](https://github-readme-stats.vercel.app/api?username=housseynou&show_icons=true&theme=merko)](https://github.com/housseynou/github-readme-stats) 
+[![Housseynou's stats card](https://github-readme-stats.vercel.app/api?username=housseynou&show_icons=true&theme=merko)](https://github.com/housseynou) 
 
 ### Repositories
 
@@ -22,5 +22,5 @@ My name is **Housseynou Coulibaly** and i am a ✨ _Junior web developer_  ✨ a
 
 ### Used Languages 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=housseynou)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=housseynou)](https://github.com/housseynou) 
 
