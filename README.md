@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋🏾
 
-<!--
-**housseynou/housseynou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Housseynou Coulibaly** and i am a ✨ _Junior web developer_  ✨ and ✨ designer  ✨
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-PYTHON-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/FMW-VueJS-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/FMW-Laravel-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a)                                                          ![](https://img.shields.io/badge/CMS-Wordpress-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/CMS-Prestashop-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Design-Illustrator-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently on training at Becode
+- 👯looking for an internship 
+- 📫 You can find me in ![https://www.linkedin.com/in/housseynou-c-6642b2142/](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png) 
+
+
+
+[![Housseynou's stats card](https://github-readme-stats.vercel.app/api?username=housseynou&show_icons=true&theme=merko)](https://github.com/housseynou/github-readme-stats) 
+
+### Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=housseynou&repo=vuejs-project)](https://github.com/housseynou/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=housseynou&repo=npProject)](https://github.com/housseynou/github-readme-stats) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=housseynou&repo=My-CV)](https://github.com/housseynou/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=housseynou&repo=getflix)](https://github.com/housseynou/github-readme-stats) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=housseynou&repo=js-datavisualisation-challenge)](https://github.com/housseynou/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=housseynou&repo=restaurant-css-framework)](https://github.com/housseynou/github-readme-stats) 
+
+### Used Languages 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=housseynou)](https://github.com/anuraghazra/github-readme-stats) 
+
