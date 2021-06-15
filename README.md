@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 
-My name is **Housseynou Coulibaly** and i am a ✨ _Junior web developer_  ✨ and ✨ designer  ✨
+My name is **Housseynou Coulibaly** and i am a ✨ _Junior web developer_  ✨ and ✨ designer  ✨.
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-PYTHON-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/FMW-VueJS-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/FMW-Laravel-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a)                                                          ![](https://img.shields.io/badge/CMS-Wordpress-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/CMS-Prestashop-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Design-Illustrator-informational?style=flat&logo=<html>&logoColor=white&color=2bbc8a) 
 
