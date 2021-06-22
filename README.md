@@ -18,7 +18,9 @@ My name is **Housseynou Coulibaly** and i am a ✨ _Junior web developer_  ✨ a
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=housseynou&repo=My-CV)](https://github.com/housseynou/My-CV) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=housseynou&repo=getflix)](https://github.com/housseynou/getflix) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=housseynou&repo=js-datavisualisation-challenge)](https://github.com/housseynou/js-datavisualisation-challenge) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=housseynou&repo=restaurant-css-framework)](https://github.com/housseynou/restaurant-css-framework) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=housseynou&repo=js-datavisualisation-challenge)](https://github.com/housseynou/js-datavisualisation-challenge) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=housseynou&repo=restaurant-css-framework)](https://github.com/housseynou/restaurant-css-framework)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=housseynou&repo=Chatbot)](https://github.com/housseynou/Chatbot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=housseynou&repo=Star-Wars-Crawl)](https://github.com/housseynou/Star-Wars-Crawl)  
 
 ### Used Languages 
 
